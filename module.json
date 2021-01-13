@@ -91,6 +91,6 @@
     }
   ],
   "url": "https://github.com/simulacrum-1/wfrp4e-laws-pet-shoppe",
-  "manifest": "",
-  "download": ""
+  "manifest": "https://github.com/simulacrum-1/wfrp4e-laws-pet-shoppe/releases/download/0.0.1/module.json",
+  "download": "https://github.com/simulacrum-1/wfrp4e-laws-pet-shoppe/releases/download/0.0.1/wfrp4e-laws-pet-shoppe.zip"
 }
