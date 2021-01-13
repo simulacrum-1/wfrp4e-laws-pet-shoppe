@@ -1,0 +1,43 @@
+{
+  "name": "Dog Random Traits",
+  "die": "1d100",
+  "hide" : true,
+  "rows": [{
+    "name": "Armour 1 (Fur)",
+    "range": [1, 10],
+    "roll": 1
+  }, {
+    "name": "Belligerent",
+    "range": [11, 15]
+  }, {
+    "name": "Bite SB+3",
+    "range": [16, 25]
+  }, {
+    "name": "Brute",
+    "range": [26, 30]
+  }, {
+    "name": "Fast",
+    "range": [31, 35]
+  }, {
+    "name": "Frenzy",
+    "range": [36, 45]
+  }, {
+    "name": "Hardy",
+    "range": [46, 55]
+  }, {
+    "name": "Night Vision",
+    "range": [56, 70]
+  }, {
+    "name": "Stealthy",
+    "range": [71, 75]
+  }, {
+    "name": "Tough",
+    "range": [76, 80]
+  }, {
+    "name": "Tracker",
+    "range": [81, 90]
+  }, {
+    "name": "Trained (Any)",
+    "range": [91, 100]
+  }]
+}

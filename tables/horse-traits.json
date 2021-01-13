@@ -1,0 +1,43 @@
+{
+  "name": "Horse Random Traits",
+  "die": "1d100",
+  "hide" : true,
+  "rows": [{
+    "name": "Amble +1",
+    "range": [1, 10],
+    "roll": 1
+  }, {
+    "name": "Belligerent",
+    "range": [11, 15]
+  }, {
+    "name": "Big",
+    "range": [16, 25]
+  }, {
+    "name": "Bite SB+2",
+    "range": [26, 30]
+  }, {
+    "name": "Fast",
+    "range": [31, 35]
+  }, {
+    "name": "Hardy +1",
+    "range": [36, 45]
+  }, {
+    "name": "Night Vision +1",
+    "range": [46, 55]
+  }, {
+    "name": "Rear",
+    "range": [56, 70]
+  }, {
+    "name": "Stealthy",
+    "range": [71, 75]
+  }, {
+    "name": "Sure-Feet",
+    "range": [76, 80]
+  }, {
+    "name": "Tough",
+    "range": [81, 90]
+  }, {
+    "name": "Trained (Any)",
+    "range": [91, 100]
+  }]
+}

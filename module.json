@@ -1,0 +1,96 @@
+{
+  "name": "wfrp4e-laws-pet-shoppe",
+  "title": "WFRP4e – Law's Pet Shoppe",
+  "description": "Pet Henchmen content from Lawhammer Blog for Warhammer Fantasy Roleplay 4e",
+  "version": "0.0.1",
+  "author": "Simulacrum",
+  "minimumCoreVersion": "0.6.2",
+  "compatibleCoreVersion" : "0.7.9",
+  "systems": ["wfrp4e"],
+  "packs": [
+    {
+    "name": "pet_bestiary",
+    "label": "Bestiary (Law's Breeds)",
+    "path": "packs/pet-bestiary.db",
+    "entity": "Actor",
+    "module": "wfrp4e-laws-pet-shoppe",
+    "system": "wfrp4e",
+    "tag": "actor"
+    },
+    {
+      "name": "pet_bestiary_breeds",
+      "label": "Bestiary (Law's Pure Breeds)",
+      "path": "packs/pet-bestiary-pure.db",
+      "entity": "Actor",
+      "module": "wfrp4e-laws-pet-shoppe",
+      "system": "wfrp4e",
+      "tag": "actor"
+      },
+      {
+      "name": "pet_careers",
+      "label": "Careers (Law's Pet Shoppe)",
+      "path": "packs/pet-careers.db",
+      "entity": "Item",
+      "module": "wfrp4e-laws-pet-shoppe",
+      "system": "wfrp4e",
+	    "tag": "careers"
+    },
+    {
+    "name": "pet_talents",
+    "label": "Talents (Law's Pet Shoppe)",
+    "path": "packs/pet-talents.db",
+    "entity": "Item",
+    "module": "wfrp4e-laws-pet-shoppe",
+    "system": "wfrp4e",
+    "tag": "talents"
+  },
+    {
+    "name": "pet_traits",
+    "label": "Traits (Law's Pet Shoppe)",
+    "path": "packs/pet-traits.db",
+    "entity": "Item",
+    "module": "wfrp4e-laws-pet-shoppe",
+    "system": "wfrp4e",
+    "tag": "traits"
+  },
+  {
+  "name": "pet_trappings",
+  "label": "Trappings (Law's Breeds)",
+  "path": "packs/pet-trappings.db",
+  "entity": "Item",
+  "module": "wfrp4e-laws-pet-shoppe",
+  "system": "wfrp4e",
+  "tag": "trappings"
+},
+{
+"name": "pet_trappings_breeds",
+"label": "Trappings (Law's Pure Breeds)",
+"path": "packs/pet-trappings-pure.db",
+"entity": "Item",
+"module": "wfrp4e-laws-pet-shoppe",
+"system": "wfrp4e",
+"tag": "trappings"
+},
+{
+    "name": "pet-rules",
+    "label": "Rules (Law's Pet Shoppe)",
+    "path": "packs/pet-rules.db",
+    "entity": "JournalEntry",
+    "module": "wfrp4e-laws-pet-shoppe",
+    "system": "wfrp4e",
+    "tag": "Journal"
+  },
+  {
+      "name": "pet-career-description",
+      "label": "Career Descriptions (Law's Pet Shoppe)",
+      "path": "packs/pet-career-description.db",
+      "entity": "JournalEntry",
+      "module": "wfrp4e-laws-pet-shoppe",
+      "system": "wfrp4e",
+      "tag": "Journal"
+    }
+  ],
+  "url": "https://github.com/simulacrum-1/wfrp4e-laws-pet-shoppe",
+  "manifest": "",
+  "download": ""
+}

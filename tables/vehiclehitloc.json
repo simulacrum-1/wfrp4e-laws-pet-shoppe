@@ -1,0 +1,62 @@
+{
+  "name": "Vehiclehitloc",
+  "columns": ["coach", "handcart", "chair"],
+  "die": "1d100",
+  "hide": true,
+  "rows": [
+    {
+      "range":{
+        "coach" : [1, 30],
+        "handcart" : [1, 40],
+        "chair" : [1, 40]
+      },
+      "name": "Crew/Seating",
+      "description": "Crew hits indicate that an exposed crew member has been hit, and the results are determined as in normal combat."
+    },
+    {
+      "range":{
+        "coach" : [31, 50],
+        "handcart" : [],
+        "chair" : []
+      },
+      "name": "Team",
+      "description": "Team hits indicate that an exposed horse has been hit, and the results are determined as in normal combat."
+    },
+    {
+        "range":{
+        "coach" : [51, 60],
+        "handcart" : [],
+        "chair" : []
+      },
+      "name": "Harness",
+      "description": "The shafts are shattered, the traces cut, or the team is separated from the vehicle in some other way. Treat this as an Out of Control vehicle mishap (page 28)."
+    },
+    {
+        "range":{
+        "coach" : [],
+        "handcart" : [41, 50],
+        "chair" : [41, 60]
+      },
+      "name": "Carrying Poles",
+      "description": "A chair or litter has one of the carrying poles broken, drops to the ground, and is immobilized."
+    },
+    {
+        "range":{
+        "coach" : [61, 70],
+        "handcart" : [51, 60],
+        "chair" : []
+      },
+      "name": "Wheel",
+      "description": "A wheel breaks or falls off, requiring repairs before the vehicle can proceed any further. A two-wheeled vehicle tips over, shedding its load and dumping any passengers on to the ground in a 1-yard fall."
+    },
+    {
+        "range":{
+        "coach" : [71, 100],
+        "handcart" : [61, 100],
+        "chair" : [61, 100]
+      },
+      "name": "Cargo Area",
+      "description": "The attack hits the part of the vehicle where goods are stored, smashing a sizeable hole in the vehicle. Half the attack’s Damage is also inflicted on a random item of cargo or passenger inside the vehicle."
+    }
+  ]
+}
