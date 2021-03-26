@@ -1,43 +1,43 @@
 {
-  "name": "Cat Random Traits",
+  "name": "Cat Random Traits 2",
   "die": "1d100",
   "hide" : true,
   "rows": [{
-    "name": "Arbourial",
+    "name": "@Compendium[wfrp4e-core.traits.rOV2s6PQBBrhpMOv]{Arboreal}",
     "range": [1, 10],
     "roll": 1
   }, {
-    "name": "Belligerent",
+    "name": "@Compendium[wfrp4e-core.traits.GbDyBCu8ZjDp6dkj]{Belligerent}",
     "range": [11, 15]
   }, {
-    "name": "Big",
+    "name": "@Compendium[wfrp4e-core.traits.a8MC97PLzl10WocT]{Big}",
     "range": [16, 25]
   }, {
-    "name": "Bite SB+1",
+    "name": "@Compendium[wfrp4e-core.traits.pLW9SVX0TVTYPiPv]{Bite} SB+1",
     "range": [26, 30]
   }, {
-    "name": "Cunning",
+    "name": "@Compendium[wfrp4e-core.traits.3WI8mhTinC8inxyj]{Cunning}",
     "range": [31, 35]
   }, {
-    "name": "Fast",
+    "name": "@Compendium[wfrp4e-core.traits.9MjH4xyVrd3Inzak]{Fast}",
     "range": [36, 45]
   }, {
-    "name": "Fury",
+    "name": "@Compendium[wfrp4e-core.traits.fjd1u9VAgiYzhBRp]{Fury}",
     "range": [46, 55]
   }, {
-    "name": "Magical",
+    "name": "@Compendium[wfrp4e-core.traits.mDgEMOoJpi8DkRYb]{Magical}",
     "range": [56, 70]
   }, {
-    "name": "Night Vision +1",
+    "name": "@Compendium[wfrp4e-core.traits.FmHDbCOy3pH8yKhm]{Night Vision} +1",
     "range": [71, 75]
   }, {
-    "name": "Trained (Any) +1",
+    "name": "@Compendium[wfrp4e-laws-pet-shoppe.pet_traits.I7L7UACo7qOuni3l]{Trained*} (Any) +1",
     "range": [76, 80]
   }, {
-    "name": "Tracker",
+    "name": "@Compendium[wfrp4e-core.traits.ClOlztW6hH8rslbp]{Tracker} !",
     "range": [81, 90]
   }, {
-    "name": "Ward (10+)",
+    "name": "@Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward} (10+)",
     "range": [91, 100]
   }]
 }

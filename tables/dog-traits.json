@@ -3,41 +3,41 @@
   "die": "1d100",
   "hide" : true,
   "rows": [{
-    "name": "Armour 1 (Fur)",
+    "name": "@Compendium[wfrp4e-core.traits.VUJUZVN3VYhOaPjj]{Armour} 1 (Fur)",
     "range": [1, 10],
     "roll": 1
   }, {
-    "name": "Belligerent",
+    "name": "@Compendium[wfrp4e-core.traits.GbDyBCu8ZjDp6dkj]{Belligerent}",
     "range": [11, 15]
   }, {
-    "name": "Bite SB+3",
+    "name": "@Compendium[wfrp4e-core.traits.pLW9SVX0TVTYPiPv]{Bite} SB+3",
     "range": [16, 25]
   }, {
-    "name": "Brute",
+    "name": "@Compendium[wfrp4e-core.traits.15ENOMf345S5AL68]{Brute}",
     "range": [26, 30]
   }, {
-    "name": "Fast",
+    "name": "@Compendium[wfrp4e-core.traits.9MjH4xyVrd3Inzak]{Fast}",
     "range": [31, 35]
   }, {
-    "name": "Frenzy",
+    "name": "@Compendium[wfrp4e-core.traits.yRhhOlt18COq4e1q]{Frenzy}",
     "range": [36, 45]
   }, {
-    "name": "Hardy",
+    "name": "@Compendium[wfrp4e-core.traits.HbrwGhUl0ZXz4kLA]{Hardy}",
     "range": [46, 55]
   }, {
-    "name": "Night Vision",
+    "name": "@Compendium[wfrp4e-core.traits.FmHDbCOy3pH8yKhm]{Night Vision}",
     "range": [56, 70]
   }, {
-    "name": "Stealthy",
+    "name": "Compendium[wfrp4e-core.traits.OzwDT6kzoLYeeR2d]{Stealthy}",
     "range": [71, 75]
   }, {
-    "name": "Tough",
+    "name": "@Compendium[wfrp4e-core.traits.k9539MBTFplxsysT]{Tough}",
     "range": [76, 80]
   }, {
-    "name": "Tracker",
+    "name": "@Compendium[wfrp4e-core.traits.ClOlztW6hH8rslbp]{Tracker}",
     "range": [81, 90]
   }, {
-    "name": "Trained (Any)",
+    "name": "@Compendium[wfrp4e-laws-pet-shoppe.pet_traits.I7L7UACo7qOuni3l]{Trained*} (Any)",
     "range": [91, 100]
   }]
 }

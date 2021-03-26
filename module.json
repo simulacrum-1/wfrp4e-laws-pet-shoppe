@@ -26,6 +26,15 @@
       "system": "wfrp4e",
       "tag": "actor"
       },
+    {
+      "name": "pet_bestiary_beasts",
+      "label": "Old World Beasts (Law's Pet Shoppe)",
+      "path": "packs/pet-bestiary-beasts.db",
+      "entity": "Actor",
+      "module": "wfrp4e-laws-pet-shoppe",
+      "system": "wfrp4e",
+      "tag": "actor"
+      },
       {
       "name": "pet_careers",
       "label": "Careers (Law's Pet Shoppe)",

@@ -1,3 +1,5 @@
+Warhammer Fantasy Roleplay and WFRP are trademarks owned by Games Workshop Ltd. This article is a fan work and is not intended to be official or to challenge any trademark or copyright of Games Workshop or any of its licensees.
+
 Note I intended this add on to work as an expansion for the Official Core and Enemy in Shadows WHFRP Modules by Moo Man.
 So it references some of those icons.
 
@@ -27,13 +29,17 @@ Adds random traits tables for dog, horses and cats
 /table dog-traits
 /table horse-traits
 
-Adds two new talents: Fated (to account for a cats many lives and perhaps wizards), Trick Riding for riders.
+Adds two new talents: Fated [Active Effect Enabled] (to account for a cats many lives and perhaps wizards), Trick Riding for riders.
 
-Adds new Traits: Amble, Surefooted, Swimmer, Fine (reapproprated from qualities to account for breeding), and Ugly (a flaw reused as a trait).
+Adds new Traits: Amble, Surefooted, Swimmer [Active Effect Enabled], Fine (reappropriated from qualities to account for breeding), and Ugly (a flaw reused as a trait).
 Updated Trained Trait. Broken was never supposed to imply the Bestial trait was ignored completely.
 Plus adds some ‘Extra Training’ skills.
 
 Adds are price lists for each type and breed and a table for how to price your own.
+
+I made the decision to make Pet Trappings 'Containers' rather than 'Miscellaneous' items.
+This lets the trapping have an Encumbrance. So if you simply want to use the animal as a pack animal (container) and don't want to be bothered with having additional character sheets then you can use them as so.
+Feel free to let me know your opinion on this.
 
 Adds a new generic henchman career for dogs, horses and cats. A sort of adventure's pet career for each type. I’ve made journals for each of the careers.
 
@@ -42,11 +48,12 @@ Finally a journal covering the main rules for using pets as Henchman (including 
 
 NOTE: If you are wondering. Pets start with no basic skills and don’t have a status or earning skills as per the blog posts. But skills including basic ones can be developed within the pet careers.
 
-
-One day perhaps a henchman generator like the character generator will enable better intergration of this module but I lack the coding skills unfortunately.
+All the animals have had their skills updated to active effects and the new ones Swimmer and Fated.
+One day perhaps a henchman generator like the character generator will enable better integration with this module but I lack the coding skills unfortunately.
 Finally any suggestions or improvements to module I would love to hear.
 
-A final big thanks to Andy Law and MooMan without which this would not exist
+I'd like to thank Vindico for his help with the Fated active effects.
+A final big thanks to Andy Law and MooMan without which this would not exist.
 
 thanks
 
