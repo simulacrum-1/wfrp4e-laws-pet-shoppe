@@ -2,7 +2,7 @@
   "name": "wfrp4e-laws-pet-shoppe",
   "title": "WFRP4e – Law's Pet Shoppe",
   "description": "Pet Henchmen content from Lawhammer Blog for Warhammer Fantasy Roleplay 4e",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Simulacrum",
   "minimumCoreVersion": "0.6.2",
   "compatibleCoreVersion" : "0.7.9",
@@ -100,6 +100,6 @@
     }
   ],
   "url": "https://github.com/simulacrum-1/wfrp4e-laws-pet-shoppe",
-  "manifest": "https://github.com/simulacrum-1/wfrp4e-laws-pet-shoppe/releases/download/0.0.1/module.json",
-  "download": "https://github.com/simulacrum-1/wfrp4e-laws-pet-shoppe/releases/download/0.0.1/wfrp4e-laws-pet-shoppe.zip"
+  "manifest": "https://github.com/simulacrum-1/wfrp4e-laws-pet-shoppe/releases/download/0.0.2/module.json",
+  "download": "https://github.com/simulacrum-1/wfrp4e-laws-pet-shoppe/releases/download/0.0.2/wfrp4e-laws-pet-shoppe.zip"
 }
