@@ -1,5 +1,5 @@
 {
-  "name": "Horse Random Traits",
+  "name": "Random Traits: Horse",
   "die": "1d100",
   "hide" : true,
   "rows": [{
