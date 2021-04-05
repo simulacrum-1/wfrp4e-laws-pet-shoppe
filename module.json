@@ -2,7 +2,7 @@
   "name": "wfrp4e-laws-pet-shoppe",
   "title": "WFRP4e – Law's Pet Shoppe",
   "description": "Pet Henchmen content from Lawhammer Blog for Warhammer Fantasy Roleplay 4e",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Simulacrum",
   "minimumCoreVersion": "0.6.2",
   "compatibleCoreVersion" : "0.7.9",
