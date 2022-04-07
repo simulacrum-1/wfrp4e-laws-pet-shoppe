@@ -7,7 +7,7 @@ http://lawhammer.blogspot.com/2020/03/my-kingdom-for-horse.html
 http://lawhammer.blogspot.com/2020/03/cats-in-cradle.html
 
 Why do you need Law's Pet Shoppe?
-Rat Catchers receiving a Small But Vicious Dog (i.e.: a Terrier) for free at Character Generation yet there are none in any supplements. Three careers start with a horse and over a third of the Careers need horses! Halfling Badger Riders start with Badgers but there are no stats for them ;)
+Rat Catchers receiving a Small But Vicious Dog (i.e.: a Terrier) for free at Character Generation yet there are none in any supplements. Three careers start with a horse and over a third of the Careers need horses! Halfling Badger Riders start with Badgers but there are no stats for them. Though you'll have to make your own career ;)
 
 This is an expansion of the henchmen rules to handle pets.
 This Expansion fills in the gap to allow pets to be created
@@ -22,7 +22,11 @@ This Expansion fills in the gap to allow pets to be created
 • Adds Trappings (price lists) for each type and breed and a table for how to price your own (in a journal).
 • I made the decision to make Pet Trappings 'Containers' rather than 'Miscellaneous' items. This lets the trapping have an Encumbrance. So if you simply want to use the animal as a pack animal (container) and don't want to be bothered with having additional character sheets then you can use them as so. Feel free to let me know your opinion on this.
 • Journals covering the main rules for using pets as Henchman (including some mentioned above).
-• Finally it adds my 4e versions of 24 x Old World animal and bird Actors that featured in previous Warhammer editions or fan material.
+• It adds my 4e versions of 24 x Old World animal and bird Actors that featured in previous Warhammer editions or fan material.
+UPDATE
+• Adds my 4e versions of 9 x Oceanic beasts that featured in previous Warhammer editions or fan material.
+• Adds 3 new Traits: Keen Senses (Sense), Wayfinder and Survival Instinct. That accounts for some animals having exceptional perception, navigation or outdoor survival when the base stats are low. Which I've added to my 4e versions Old World animal, bird and oceanic creatures that featured in previous Warhammer editions or fan material.
+• Updated the Trained Trait: Calm. As Andy updated the rules.
 
 
 One day perhaps a henchman generator like the character generator will enable better integration with this module but I lack the coding skills unfortunately.

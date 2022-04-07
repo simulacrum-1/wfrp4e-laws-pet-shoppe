@@ -2,10 +2,10 @@
   "name": "wfrp4e-laws-pet-shoppe",
   "title": "WFRP4e – Law's Pet Shoppe",
   "description": "Pet Henchmen content from Lawhammer Blog for Warhammer Fantasy Roleplay 4e",
-  "version": "0.0.3",
+  "version": "1.1.0",
   "author": "Simulacrum",
-  "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion" : "0.7.9",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion" : "0.9.255",
   "systems": ["wfrp4e"],
   "packs": [
     {
@@ -35,6 +35,15 @@
       "system": "wfrp4e",
       "tag": "actor"
       },
+      {
+        "name": "pet_bestiary_oceanic",
+        "label": "Oceanic Beasts (Law's Pet Shoppe)",
+        "path": "packs/pet-bestiary-oceanic.db",
+        "entity": "Actor",
+        "module": "wfrp4e-laws-pet-shoppe",
+        "system": "wfrp4e",
+        "tag": "actor"
+        },
       {
       "name": "pet_careers",
       "label": "Careers (Law's Pet Shoppe)",
@@ -97,9 +106,18 @@
       "module": "wfrp4e-laws-pet-shoppe",
       "system": "wfrp4e",
       "tag": "Journal"
-    }
+    },
+    {
+        "name": "pet-tables",
+        "label": "Tables (Law's Pet Shoppe)",
+        "path": "packs/pet-tables.db",
+        "entity": "RollTable",
+        "module": "wfrp4e-laws-pet-shoppe",
+        "system": "wfrp4e",
+        "tag": "tables"
+      }
   ],
   "url": "https://github.com/simulacrum-1/wfrp4e-laws-pet-shoppe",
-  "manifest": "https://github.com/simulacrum-1/wfrp4e-laws-pet-shoppe/releases/download/0.0.3/module.json",
-  "download": "https://github.com/simulacrum-1/wfrp4e-laws-pet-shoppe/releases/download/0.0.3/wfrp4e-laws-pet-shoppe.zip"
+  "manifest": "https://github.com/simulacrum-1/wfrp4e-laws-pet-shoppe/releases/download/1.1.0/module.json",
+  "download": "https://github.com/simulacrum-1/wfrp4e-laws-pet-shoppe/releases/download/1.1.0/wfrp4e-laws-pet-shoppe.zip"
 }
