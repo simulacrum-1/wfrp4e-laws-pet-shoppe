@@ -23,16 +23,23 @@ This Expansion fills in the gap to allow pets to be created
 • I made the decision to make Pet Trappings 'Containers' rather than 'Miscellaneous' items. This lets the trapping have an Encumbrance. So if you simply want to use the animal as a pack animal (container) and don't want to be bothered with having additional character sheets then you can use them as so. Feel free to let me know your opinion on this.
 • Journals covering the main rules for using pets as Henchman (including some mentioned above).
 • It adds my 4e versions of 24 x Old World animal and bird Actors that featured in previous Warhammer editions or fan material.
-UPDATE
+UPDATE 1.1.0
 • Adds my 4e versions of 9 x Oceanic beasts that featured in previous Warhammer editions or fan material.
 • Adds 3 new Traits: Keen Senses (Sense), Wayfinder and Survival Instinct. That accounts for some animals having exceptional perception, navigation or outdoor survival when the base stats are low. Which I've added to my 4e versions Old World animal, bird and oceanic creatures that featured in previous Warhammer editions or fan material.
 • Updated the Trained Trait: Calm. As Andy updated the rules.
-
+UPDATE 1.1.1
+• Trained* trait description from compendium is updated.
+• Bestiary: Telland Pit Bull has description corrected
+• Bestiary: Adds the missing Stirland Fighting Dog.
+• Bestiary: Tracker (2) trait now adds twice their Initiative Bonus to all Track Tests. Until I find out Andy's intention for Tracker (2).
+• Careers: Linked to career descriptions
+• Fixed Typos in career descriptions
 
 One day perhaps a henchman generator like the character generator will enable better integration with this module but I lack the coding skills unfortunately.
 Finally any suggestions or improvements to module I would love to hear.
 
-I'd like to thank Vindico for his help with the Fated active effects.
+I'd like to thank Vindico for his help with the Fated active effects and GregorHak for spotting errors and tracker trait code.
+
 A final big thanks to Andy Law and MooMan without which this would not exist.
 
 thanks
